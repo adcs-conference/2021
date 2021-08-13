@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0043)http://getbootstrap.com/examples/offcanvas/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- <link rel="icon" href="http://getbootstrap.com/favicon.ico"> -->
+
+    <title>ADCS2019</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/offcanvas.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+    <script src="js/jquery.min.js"></script> 
+    <script> 
+    $(function(){
+      $("#navbarContent").load("navbar.html"); 
+      $("#sidebarContent").load("sidebar.html"); 
+      $("#footerContent").load("footer.html");
+    });
+    </script>
+
+  </head>
+
+  <body>
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div id="navbarContent"></div>
+      </div><!-- /.container -->
+    </nav><!-- /.navbar -->
+<!-- 
+- home
+- cfp & submissions
+- program
+- keynotes
+- location and registration
+- organising committee
+- information for presenters -->
+
+    <div class="container">
+
+      <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-8">
+          <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle sidebar</button>
+          </p>
+          
+          <div class="row">
+            <div class="col-xs-12 col-sm-12">
+              <h2>Call for Papers</h2>
+
+              <h3>Aim of the Symposium</h3>
+              
+              <p>ADCS 2019 is an opportunity for researchers and practitioners in
+              document computing and information retrieval to meet and present
+              their work. The symposium aims to cover all aspects of Document
+              Computing - issues ranging from the fundamentals of document
+              architectures and standards for markup, through storage, management,
+              retrieval, authentication and workflow, to active and virtual
+              documents. The symposium emphasises both commercial and academic
+              issues by encouraging a variety of submissions.</p>
+               
+              <h3>Topics of Interest</h3>
+              
+              <p>The symposium topics include (but are not restricted to) the following:
+              <ul>
+                <li>Cognitive Aspects of Documents</li>
+                <li>Digital Libraries</li>
+                <li>Document Databases</li>
+                <li>Document Standards (XML, SGML, etc.)</li>
+                <li>Document Summarisation</li>
+                <li>Enterprise Search </li>
+                <li>Evaluation</li>
+                <li>Information Retrieval</li>
+                <li>Multimedia Document Management</li>
+                <li>Multimedia Resource Discovery</li>
+                <li>Natural Language Techniques and Documents</li>
+                <li>Personalised Documents</li>
+                <li>Retrieval Models and Ranking</li>
+                <li>Search Engine Architectures and Scalability</li>
+                <li>User Studies Involving Documents</li>
+                <li>Web Documents</li>
+                <li>Web Search</li>
+                </ul>
+              </p>
+               
+              <h3>Submissions</h3>
+              
+               
+              <h4>Full papers</h4>
+              <p><strong>8 pages</strong> including all
+              references and figures. Full papers should describe new contributions or analyse research
+              issues. Submissions should be at most eight pages long (about 4000
+              words); over-length submissions risk immediate rejection without review. Refer to the
+              guidelines for papers for details of the required format.</p>
+               
+              <h4>Short papers, Posters and Industry Status Reports</h4>
+              <p><strong>4 pages</strong>
+              including references and figures. To encourage participation by industry and to provide a place for work
+              of a more speculative nature, ADCS invites submissions for short
+              papers, up to a maximum of four pages (about 2000 words). A typical
+              proposal might describe a leading-edge solution to a practical problem
+              in document management. Short papers follow the same format as for
+              full papers.</p>
+
+              <h4>Paper Formatting and Submission</h4>
+              <p>Manuscripts should be submitted electronically, in PDF
+              format and formatted using the <a href="http://www.acm.org/publications/proceedings-template">ACM camera-ready templates</a>.</p> 
+              <p>Papers will be submitted using <a href="https://easychair.org/conferences/?conf=adcs2019">Easy Chair</a>.</p>
+
+              <h4>Paper Reviewing</h4>
+              <p>All submissions will be fully refereed using a
+              <strong>double blind</strong> refereeing process, at their full published length, and
+              will comply with DEST criteria for fully-refereed conference papers
+              (category E1). </p>
+
+              <h4>Publishing and Attendence</h4>
+              <p>Submissions must be original work, not previously published
+              elsewhere, and not currently submitted to any other conference or
+              journal. </p>
+
+              <p>Submission of a paper should be regarded as an undertaking that,
+              should the paper be accepted, at least one of the authors will attend
+              the symposium to present the work. Note also that it is insufficient
+              for an author to register as fulfilling this obligation.
+
+              <p>In past symposia, electronic copies of accepted papers have been available
+              through the ACM Digital Library as part of the ICPS
+              collection.
+              We therefore expect that authors of accepted papers will have to
+              sign the ACM rights management form to comply with publication in the
+              ACM digital library. For more information see the ACM authors page.</p>
+
+            </div><!--/.col-xs-6.col-lg-4-->
+            
+          </div><!--/row-->
+        </div><!--/.col-xs-12.col-sm-9-->
+
+       <div id="sidebarContent"></div>
+      </div><!--/row-->
+
+      <hr>
+
+      <div id="footerContent"></div>
+
+    </div><!--/.container-->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+
+    <script src="js/offcanvas.js"></script>
+  
+
+</body></html>

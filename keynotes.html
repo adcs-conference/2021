@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0043)http://getbootstrap.com/examples/offcanvas/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- <link rel="icon" href="http://getbootstrap.com/favicon.ico"> -->
+
+    <title>ADCS2019</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/offcanvas.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+   <script src="js/jquery.min.js"></script> 
+    <script> 
+    $(function(){
+      $("#navbarContent").load("navbar.html"); 
+      $("#sidebarContent").load("sidebar.html"); 
+      $("#footerContent").load("footer.html");
+    });
+    </script>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+       <div id="navbarContent"></div>
+      </div><!-- /.container -->
+    </nav><!-- /.navbar -->
+<!-- 
+- home
+- cfp & submissions
+- program
+- keynotes
+- location and registration
+- organising committee
+- information for presenters -->
+
+    <div class="container">
+
+      <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-8">
+          <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle sidebar</button>
+          </p>
+          
+          <div class="row">
+            <div class="col-xs-12 col-sm-12">
+            <h2>Keynote Presentations</h2>
+
+            <a name="wilson"></a>
+            <h3>Wilson Wong - GO1</h3>
+		    
+            <h4>Findability and discoverability in learning and employment</h4>
+            <h5>Thursday 5th, 13:15</h5>
+
+            <p>Connecting consumers or users to items in inventories and vice versa are central to businesses that operate in two-sided online marketplaces. SEEK, for instance, strives to better help jobseekers find their dream jobs. GO1, on the other hand, exists to make learning opportunities more accessible and effective for people to progress their careers or to build better lives. Assuming there is adequate scale on both sides of the marketplace, the problem becomes one of matching the two sides. In making items easily findable and discoverable, we improve “liquidity” in those marketplaces, which in turn help build up competitive moats around those businesses. I am fortunate enough to be leading (or have led) teams whose sole aim is to improve the way job ads and learning content are found and discovered in what seems like very similar verticals, or so I thought. In this talk, we unpack three key differences in the mindsets and approaches to improving search and recommendation in the context of learning vs employment using examples from actual projects that my teams and I have delivered at GO1 and SEEK.</p>
+
+              <h4>About Wilson</h4>
+              <p>
+                  <!-- <img src="img/jon_degenhardt.jpg" class="keynote"> --->
+               Wilson currently heads up the Data Science Group at GO1, the world’s largest compliance, professional development and general training marketplace, which is backed by SEEK and Microsoft. Prior to GO1, he led the team responsible for search improvement at SEEK, serving millions of jobseekers and hirers across Australia and New Zealand. Wilson spent the last decade in various hands-on and leadership roles in academia and industry. He has built a track record of solving user and business problems by adopting the scientific method and product thinking, and moving key business metrics along the way. Wilson achieves them through building capabilities from ground up, attracting and inspiring smart people to push the boundary and translating research into tangible commercial outcomes. He has a PhD in Computer Science from The University of Western Australia on the topic of building ontologies from unstructured text to improve discoverability of documents. He has published over 50 articles and edited books on ontology learning, search, recommendation and conversational systems with over 1000 citations. Wilson occasionally delivers guest lectures at RMIT on data science related subjects.
+              </p>
+              
+              <a name="zuccon"></a>
+              <h3>Guido Zuccon - The University of Queensland</h3>
+		    
+              <h4>Better Search, Better Health? Search Engines, their Evaluation and the Impact on Health Decisions</h4>
+              <h5>Friday 6th, 13:00</h5>
+
+              <p>Search Engines have become a central technology for accessing health information, supporting a variety of health decision making tasks. It is common for people to use Google to seek health advice online – even for self-diagnosis and treatment decisions. At the other end of the spectrum, clinicians themselves rely on (specialised) search services like PubMed and UpToDate to access the latest medical research and guidelines to assist with evidence-based medical practice. In this talk, I will use as examples, two recent studies my research group has performed, to reflect on advances in search engine technology and its impact on health search and decision making. I will describe the extent to which current search engine technology can assist users with their health decisions, and I will highlight how most of the current evaluation methods used to determine the effectiveness of a search engine are disconnected with the actual success of the end task – improving the health decisions we make. I will conclude by advertising the TREC Decision Track, an initiative we have put forward to close the gap between the development of better search engines and the support of better decision making.</p>
+
+              <h4>About Guido</h4>
+              <p>
+                  <!-- <img src="img/jon_degenhardt.jpg" class="keynote"> --->
+               Dr Guido is a Senior Lecturer and ARC DECRA Fellow at The University of Queensland, where he leads the <a href="http://ielab.io/">ielab</a> and is the Director of the UQ Neusoft Health Data Science Lab. Guido's expertise is in formal models of information retrieval, in particular applied to problems in health search. 
+		      </p>
+
+            </div><!--/.col-xs-6.col-lg-4-->  
+		  
+          </div><!--/row-->
+        </div><!--/.col-xs-12.col-sm-9-->
+
+        <div id="sidebarContent"></div>
+      </div><!--/row-->
+
+      <hr>
+
+      <div id="footerContent"></div>
+
+    </div><!--/.container-->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+
+    <script src="js/offcanvas.js"></script>
+  
+
+</body></html>
