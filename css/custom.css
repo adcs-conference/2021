@@ -6,6 +6,16 @@ img.keynote {
 	margin-right: 10px;
 }
 
+.committee li img {
+    height: 90px;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+.committee li {
+    list-style-type: none;
+}
+
 .jumbotron {
 	
 }
@@ -48,6 +58,6 @@ footer img, img.sponsor {
 }
 
 .sponsor-big {
-    height: 60px;
+    height: 80px;
     margin: 30px;
 }
