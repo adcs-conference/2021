@@ -16,6 +16,11 @@ img.keynote {
     list-style-type: none;
 }
 
+.accepted li {
+    margin: 10px 0;
+}
+
+
 .jumbotron {
 	
 }
