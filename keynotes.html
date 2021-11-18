@@ -1,6 +1,8 @@
 ﻿<!DOCTYPE html>
 <!-- saved from url=(0043)http://getbootstrap.com/examples/offcanvas/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,30 +20,31 @@
     <link href="css/offcanvas.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
 
-   <script src="js/jquery.min.js"></script> 
-    <script> 
-    $(function(){
-      $("#navbarContent").load("navbar.html"); 
-      $("#sidebarContent").load("sidebar.html"); 
-      $("#footerContent").load("footer.html");
-    });
+    <script src="js/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $("#navbarContent").load("navbar.html");
+            $("#sidebarContent").load("sidebar.html");
+            $("#footerContent").load("footer.html");
+        });
     </script>
-  </head>
+</head>
 
-  <body>
-    <nav class="navbar navbar-fixed-top navbar-inverse">
-      <div class="container">
+<body>
+<nav class="navbar navbar-fixed-top navbar-inverse">
+    <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
         </div>
-       <div id="navbarContent"></div>
-      </div><!-- /.container -->
-    </nav><!-- /.navbar -->
+        <div id="navbarContent"></div>
+    </div><!-- /.container -->
+</nav><!-- /.navbar -->
 <!-- 
 - home
 - cfp & submissions
@@ -51,62 +54,87 @@
 - organising committee
 - information for presenters -->
 
-    <div class="container">
+<div class="container">
 
-      <div class="row row-offcanvas row-offcanvas-right">
+    <div class="row row-offcanvas row-offcanvas-right">
 
         <div class="col-xs-12 col-sm-8">
-          <p class="pull-right visible-xs">
-            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle sidebar</button>
-          </p>
-          
-          <div class="row">
-            <div class="col-xs-12 col-sm-12">
-            <h2>Keynote Presentations</h2>
+            <p class="pull-right visible-xs">
+                <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle sidebar</button>
+            </p>
 
-            <a name="placeholder"></a>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12">
+                    <h2>Keynote Presentations</h2>
+
+                    <a name="placeholder"></a>
 
 
+                    <h3><img src="img/min.png" style="max-width: 25%;"/> Associate Professor Min Zhang, Tsinghua
+                        University</h3>
 
-            <h3><img src="img/min.png" style="max-width: 25%;"/> Associate Professor Min Zhang, Tsinghua University</h3>
-		    
-<!--            <h4>Talk Title here</h4>-->
-            <h5>December 9th</h5>
+                    <!--            <h4>Talk Title here</h4>-->
+                    <h5>December 9th</h5>
 
-<!--            <p>Talk Abstract here</p>-->
+                    <!--            <p>Talk Abstract here</p>-->
 
-              <h4>About Dr. Min Zhang</h4>
-              <p>
-                Dr. Min Zhang is a tenured associate professor in the Department of Computer Science & Technology (DCST), Tsinghua University, and is the vice director of the AI lab, DCST. She specializes in Web search, personalized recommendation, and user modeling. Currently she serves as the Editor-in-Chief (EiC) of ACM Transaction on Information Systems (TOIS),  ACM SIGIR Executive Committee member, and PC chair or Area Chairs of top conferences such as SIGIR, WSDM, theWebConf, etc. She was awarded IBM Global Faculty Award in 2020. She also owns 12 patents and cooperates with many international and domestic enterprises. More information can be found at
-                  <a href="http://www.thuir.cn/group/~mzhang">the website</a> and
-                  <a href="https://scholar.google.com/citations?&user=0HtCYQEAAAAJ">Google Scholar</a>
-                              </p>
-              
-            </div><!--/.col-xs-6.col-lg-4-->  
-		  
-          </div><!--/row-->
+                    <h4>About Dr. Min Zhang</h4>
+                    <p>
+                        Dr. Min Zhang is a tenured associate professor in the Department of Computer Science &
+                        Technology (DCST), Tsinghua University, and is the vice director of the AI lab, DCST. She
+                        specializes in Web search, personalized recommendation, and user modeling. Currently she serves
+                        as the Editor-in-Chief (EiC) of ACM Transaction on Information Systems (TOIS), ACM SIGIR
+                        Executive Committee member, and PC chair or Area Chairs of top conferences such as SIGIR, WSDM,
+                        theWebConf, etc. She was awarded IBM Global Faculty Award in 2020. She also owns 12 patents and
+                        cooperates with many international and domestic enterprises. More information can be found at
+                        <a href="http://www.thuir.cn/group/~mzhang">the website</a> and
+                        <a href="https://scholar.google.com/citations?&user=0HtCYQEAAAAJ">Google Scholar</a>
+                    </p>
+
+
+                    <h3><img src="img/terry.jpeg" style="max-width: 25%;"/> Dr Terrence Szymanski Principal Data
+                        Scientist, SEEK</h3>
+
+                    <!--            <h4>Talk Title here</h4>-->
+                    <h5>Date T.B.A.</h5>
+
+                    <!--            <p>Talk Abstract here</p>-->
+
+                    <h4>About Dr Terrence Szymanski</h4>
+                    <p>
+                        Terrence is currently the lead data scientist for Candidate Quality at SEEK. His team develops
+                        AI services leveraging ML and NLP to provide rich understanding of the match between candidates
+                        and job postings on SEEK’s platforms. Terrence previously worked as a data scientist at ANZ Bank
+                        in Melbourne, as a postdoctoral researcher in text analytics at University College Dublin, and
+                        as a doctoral researcher at the University of Michigan, where he earned his PhD.
+                    </p>
+
+                </div><!--/.col-xs-6.col-lg-4-->
+
+            </div><!--/row-->
         </div><!--/.col-xs-12.col-sm-9-->
 
         <div id="sidebarContent"></div>
-      </div><!--/row-->
+    </div><!--/row-->
 
-      <hr>
+    <hr>
 
-      <div id="footerContent"></div>
+    <div id="footerContent"></div>
 
-    </div><!--/.container-->
+</div><!--/.container-->
 
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="js/ie10-viewport-bug-workaround.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="js/ie10-viewport-bug-workaround.js"></script>
 
-    <script src="js/offcanvas.js"></script>
-  
+<script src="js/offcanvas.js"></script>
 
-</body></html>
+
+</body>
+</html>
