@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ADCS 2021
+X-WR-TIMEZONE:Australia/Melbourne
+X-WR-CALDESC:Virtual seminars for the Australasian Document Computing Sympo
+ sium (ADCS) 2021\n\nFor more information about the seminars\, please regist
+ er here: https://bit.ly/ADCS2021Registration
+BEGIN:VEVENT
+DTSTART:20220211T050000Z
+DTEND:20220211T063000Z
+DTSTAMP:20211130T045746Z
+UID:1s8sab0kfrmugf1seac561t371@google.com
+CREATED:20211130T025211Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><br><table><tbo
+ dy><tr><td>4pm-5.30pm</td><td><strong>Seminar Session 5</strong></td></tr><
+ tr><td></td><td><i>An Analysis of the Australian Political Discourse in Spo
+ nsored Social Media Content</i>&nbsp\;- Lei Han\, Rudra Sawant\, Shaoyang F
+ an\, Glenn Kefford\, and Gianluca Demartini<br></td></tr><tr><td></td><td><
+ i><strong>Business Meeting</strong></i><br></td></tr><tr><td></td><td><i><s
+ trong>Social Event</strong></i></td></tr></tbody></table><br><h2>Registrati
+ on</h2><p>ADCS is&nbsp\;<strong>free</strong>&nbsp\;but we need you to regi
+ ster so we know who to send the talk information to.</p><p><strong>Please r
+ egister as soon as you can.</strong></p><p><a href="https://forms.gle/3mMs3
+ DDcqrSYwDUE9">Here's the online registration form</a></p><h2>Format<a></a><
+ /h2><p>ADCS 2021 will run as an online seminar series. There will be weekly
+  talks scheduled from December 2021 through to February 2022\, with a few b
+ reaks (for Christmas and the holiday period). The seminars will be hosted o
+ n Zoom\, and links will be circulated to all registrants. Please see the&nb
+ sp\;<a href="http://adcs-conference.org/2021/programme.html" id="ow471" __i
+ s_owner="true">programme</a>&nbsp\;for more information.</p><p><br></p><p><
+ a href="http://adcs-conference.org/2021">http://adcs-conference.org/2021</a
+ ><br></p><p>Follow us on Twitter: <a href="https://twitter.com/AusDocCompSy
+ mp" id="ow458" __is_owner="true">@AusDocCompSymp</a></p><p>We acknowledge t
+ he Traditional Custodians of Country throughout Australia\, and their conti
+ nuing connection to culture\, community\, land\, sea\, and sky. We pay our 
+ respects to Elders past\, present\, and emerging.<br></p>
+LAST-MODIFIED:20211130T043642Z
+LOCATION:Virtual on Zoom (Please register to get the link)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Seminar Session 5 + Business Meeting + Social Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220224T013000Z
+DTEND:20220224T023000Z
+DTSTAMP:20211130T045746Z
+UID:5iv3q0hmvv8me2ac9r1dfb20h3@google.com
+CREATED:20211130T025411Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><br><table><tbo
+ dy><tr><td>12.30pm-1.30pm</td><td><strong>Keynote</strong>:<a href="http://
+ adcs-conference.org/2021/keynotes.html"><i>&nbsp\;Maximising the potential 
+ of documents\, NLP\, and AI in an online employment marketplace: Technical 
+ and non-technical challenges</i>&nbsp\;- Dr. Terrence Szymanski\, SEEK</a><
+ br></td></tr><tr><td></td><td><strong>Conference Closing</strong></td></tr>
+ </tbody></table><h2>Registration</h2><p>ADCS is&nbsp\;<strong>free</strong>
+ &nbsp\;but we need you to register so we know who to send the talk informat
+ ion to.</p><p><strong>Please register as soon as you can.</strong></p><p><a
+  href="https://forms.gle/3mMs3DDcqrSYwDUE9">Here's the online registration 
+ form</a></p><h2>Format<a></a></h2><p>ADCS 2021 will run as an online semina
+ r series. There will be weekly talks scheduled from December 2021 through t
+ o February 2022\, with a few breaks (for Christmas and the holiday period).
+  The seminars will be hosted on Zoom\, and links will be circulated to all 
+ registrants. Please see the&nbsp\;<a href="http://adcs-conference.org/2021/
+ programme.html">programme</a>&nbsp\;for more information.</p><p><br></p><p>
+ <a href="http://adcs-conference.org/2021">http://adcs-conference.org/2021</
+ a><br></p><p>Follow us on Twitter:&nbsp\;<a href="https://twitter.com/AusDo
+ cCompSymp">@AusDocCompSymp</a></p><p>We acknowledge the Traditional Custodi
+ ans of Country throughout Australia\, and their continuing connection to cu
+ lture\, community\, land\, sea\, and sky. We pay our respects to Elders pas
+ t\, present\, and emerging.</p>
+LAST-MODIFIED:20211130T043743Z
+LOCATION:Virtual on Zoom (please register to get the link)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Keynote by  Dr. Terrence Szymanski (SEEK\, Australia) +
+  Closing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T230000Z
+DTEND:20220203T000000Z
+DTSTAMP:20211130T045746Z
+UID:368cl87m3da3vnmoi94eagcmv2@google.com
+CREATED:20211130T025152Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><br><table><tbo
+ dy><tr><td>10am-11am</td><td><strong>Seminar Session 4</strong></td></tr><t
+ r><td></td><td><i>Passage Based Answer-Set Graph Approach for Query Perform
+ ance Prediction</i>&nbsp\;- Ghulam Sarwar and Colm O'Riordan<br></td></tr><
+ tr><td></td><td><i>Crowdsourcing Backstories for Complex Task-Based Search<
+ /i>&nbsp\;- Manuel Steiner\, Damiano Spina\, Falk Scholer\, and Lawrence Ca
+ vedon</td></tr></tbody></table><h2>Registration</h2><p>ADCS is&nbsp\;<stron
+ g>free</strong>&nbsp\;but we need you to register so we know who to send th
+ e talk information to.</p><p><strong>Please register as soon as you can.</s
+ trong></p><p><a href="https://forms.gle/3mMs3DDcqrSYwDUE9">Here's the onlin
+ e registration form</a></p><h2>Format<a></a></h2><p>ADCS 2021 will run as a
+ n online seminar series. There will be weekly talks scheduled from December
+  2021 through to February 2022\, with a few breaks (for Christmas and the h
+ oliday period). The seminars will be hosted on Zoom\, and links will be cir
+ culated to all registrants. Please see the&nbsp\;<a href="http://adcs-confe
+ rence.org/2021/programme.html">programme</a>&nbsp\;for more information.</p
+ ><p><br></p><p><a href="http://adcs-conference.org/2021">http://adcs-confer
+ ence.org/2021</a><br></p><p>Follow us on Twitter:&nbsp\;<a href="https://tw
+ itter.com/AusDocCompSymp">@AusDocCompSymp</a></p><p>We acknowledge the Trad
+ itional Custodians of Country throughout Australia\, and their continuing c
+ onnection to culture\, community\, land\, sea\, and sky. We pay our respect
+ s to Elders past\, present\, and emerging.</p>
+LAST-MODIFIED:20211130T044249Z
+LOCATION:Virtual on Zoom (Please register to get the link)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Seminar Session 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T013000Z
+DTEND:20220120T023000Z
+DTSTAMP:20211130T045746Z
+UID:4ung93m57vm55btfncj3jr82gl@google.com
+CREATED:20211130T024921Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><br><table><tbo
+ dy><tr><td>12.30pm-1.30pm</td><td><strong>Seminar Session 3</strong></td></
+ tr><tr><td></td><td><i>Annotation of Struck-out Text in Handwritten Documen
+ ts</i>&nbsp\;- Hiqmat Nisa\, Vic Ciesielski\, James Thom\, and Ruwan Tennak
+ oon<br></td></tr><tr><td></td><td><i>Cohort-based Clinical Trial Retrieval<
+ /i>&nbsp\;- Bevan Koopman and Guido Zuccon</td></tr></tbody></table><h2>Reg
+ istration</h2><p>ADCS is&nbsp\;<strong>free</strong>&nbsp\;but we need you 
+ to register so we know who to send the talk information to.</p><p><strong>P
+ lease register as soon as you can.</strong></p><p><a href="https://forms.gl
+ e/3mMs3DDcqrSYwDUE9">Here's the online registration form</a></p><h2>Format<
+ a></a></h2><p>ADCS 2021 will run as an online seminar series. There will be
+  weekly talks scheduled from December 2021 through to February 2022\, with 
+ a few breaks (for Christmas and the holiday period). The seminars will be h
+ osted on Zoom\, and links will be circulated to all registrants. Please see
+  the&nbsp\;<a href="http://adcs-conference.org/2021/programme.html">program
+ me</a>&nbsp\;for more information.</p><p><br></p><p><a href="http://adcs-co
+ nference.org/2021">http://adcs-conference.org/2021</a><br></p><p>Follow us 
+ on Twitter:&nbsp\;<a href="https://twitter.com/AusDocCompSymp">@AusDocCompS
+ ymp</a></p><p>We acknowledge the Traditional Custodians of Country througho
+ ut Australia\, and their continuing connection to culture\, community\, lan
+ d\, sea\, and sky. We pay our respects to Elders past\, present\, and emerg
+ ing.</p>
+LAST-MODIFIED:20211130T044411Z
+LOCATION:Virtual on Zoom (Please register to get the link)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Seminar Session 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T013000Z
+DTEND:20220118T023000Z
+DTSTAMP:20211130T045746Z
+UID:4207t976r2aqtohj71ktf3edve@google.com
+CREATED:20211130T024858Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><table><tbody><
+ tr><td>12.30pm-1.30pm</td><td><strong>Seminar Session 2</strong></td></tr><
+ tr><td></td><td><i>Document Clustering vs Topic Models: A Case Study</i>&nb
+ sp\;- Meng Yuan\, Pauline Lin\, and Justin Zobel<br></td></tr><tr><td></td>
+ <td><i>MeSH Term Suggestion for Systematic Review Literature Search</i>&nbs
+ p\;- Shuai Wang\, Hang Li\, Harrisen Scells\, Daniel Locke\, and Guido Zucc
+ on</td></tr></tbody></table><h2>Registration</h2><p>ADCS is&nbsp\;<strong>f
+ ree</strong>&nbsp\;but we need you to register so we know who to send the t
+ alk information to.</p><p><strong>Please register as soon as you can.</stro
+ ng></p><p><a href="https://forms.gle/3mMs3DDcqrSYwDUE9">Here's the online r
+ egistration form</a></p><h2>Format<a></a></h2><p>ADCS 2021 will run as an o
+ nline seminar series. There will be weekly talks scheduled from December 20
+ 21 through to February 2022\, with a few breaks (for Christmas and the holi
+ day period). The seminars will be hosted on Zoom\, and links will be circul
+ ated to all registrants. Please see the&nbsp\;<a href="http://adcs-conferen
+ ce.org/2021/programme.html">programme</a>&nbsp\;for more information.</p><p
+ ><br></p><p><a href="http://adcs-conference.org/2021">http://adcs-conferenc
+ e.org/2021</a><br></p><p>Follow us on Twitter:&nbsp\;<a href="https://twitt
+ er.com/AusDocCompSymp">@AusDocCompSymp</a></p><p>We acknowledge the Traditi
+ onal Custodians of Country throughout Australia\, and their continuing conn
+ ection to culture\, community\, land\, sea\, and sky. We pay our respects t
+ o Elders past\, present\, and emerging.</p>
+LAST-MODIFIED:20211130T044501Z
+LOCATION:Virtual on Zoom (Please register to get the link)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Seminar Session 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220113T013000Z
+DTEND:20220113T023000Z
+DTSTAMP:20211130T045746Z
+UID:0eoq84jm3mo3t9ss51bil8f439@google.com
+CREATED:20211130T024838Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><table><tbody><
+ tr><td>12.30pm-1.30pm</td><td><strong>Seminar Session 1</strong></td></tr><
+ tr><td></td><td><i>Hierarchical Clustering of Corals using Image Clustering
+ </i>&nbsp\;- Rudra Sawant\, Gianluca Demartini\, and Tom Bridge<br></td></t
+ r><tr><td></td><td><i>Cost-Effective Updating of Distributed Reordered Inde
+ xes</i>&nbsp\;- Joel Mackenzie and Alistair Moffat</td></tr></tbody></table
+ ><h2>Registration</h2><p>ADCS is&nbsp\;<strong>free</strong>&nbsp\;but we n
+ eed you to register so we know who to send the talk information to.</p><p><
+ strong>Please register as soon as you can.</strong></p><p><a href="https://
+ forms.gle/3mMs3DDcqrSYwDUE9">Here's the online registration form</a></p><h2
+ >Format<a></a></h2><p>ADCS 2021 will run as an online seminar series. There
+  will be weekly talks scheduled from December 2021 through to February 2022
+ \, with a few breaks (for Christmas and the holiday period). The seminars w
+ ill be hosted on Zoom\, and links will be circulated to all registrants. Pl
+ ease see the&nbsp\;<a href="http://adcs-conference.org/2021/programme.html"
+ >programme</a>&nbsp\;for more information.</p><p><br></p><p><a href="http:/
+ /adcs-conference.org/2021">http://adcs-conference.org/2021</a><br></p><p>Fo
+ llow us on Twitter:&nbsp\;<a href="https://twitter.com/AusDocCompSymp">@Aus
+ DocCompSymp</a></p><p>We acknowledge the Traditional Custodians of Country 
+ throughout Australia\, and their continuing connection to culture\, communi
+ ty\, land\, sea\, and sky. We pay our respects to Elders past\, present\, a
+ nd emerging.</p>
+LAST-MODIFIED:20211130T044542Z
+LOCATION:Virtual on Zoom (Please register to get the link)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Seminar Session 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211209T010000Z
+DTEND:20211209T023000Z
+DTSTAMP:20211130T045746Z
+UID:20bfmj3a9hbibgc56sl4emjj1s@google.com
+CREATED:20211130T024738Z
+DESCRIPTION:<h2>ADCS 2021</h2><br>The 25<sup>th</sup>&nbsp\;Australasian Do
+ cument Computing Symposium<br>Virtual Seminar Series<br><br><table><tbody><
+ tr><td>12pm-12.30pm</td><td><strong>Conference Opening</strong></td></tr><t
+ r><td>12.30pm-1.30pm</td><td><strong>Keynote</strong>:<a href="http://adcs-
+ conference.org/2021/keynotes.html" id="ow2247" __is_owner="true"><i>&nbsp\;
+ What users tell us: User Understanding and Modeling for Personalized Recomm
+ endation</i>&nbsp\;- Associate Professor Min Zhang\, Tsinghua University</a
+ ></td></tr></tbody></table><br><h2>Registration</h2><p>ADCS is&nbsp\;<stron
+ g>free</strong>&nbsp\;but we need you to register so we know who to send th
+ e talk information to.</p><p><strong>Please register as soon as you can.</s
+ trong></p><p><a href="https://forms.gle/3mMs3DDcqrSYwDUE9">Here's the onlin
+ e registration form</a></p><h2>Format<a></a></h2><p>ADCS 2021 will run as a
+ n online seminar series. There will be weekly talks scheduled from December
+  2021 through to February 2022\, with a few breaks (for Christmas and the h
+ oliday period). The seminars will be hosted on Zoom\, and links will be cir
+ culated to all registrants. Please see the&nbsp\;<a href="http://adcs-confe
+ rence.org/2021/programme.html">programme</a>&nbsp\;for more information.</p
+ ><p><br></p><p><a href="http://adcs-conference.org/2021">http://adcs-confer
+ ence.org/2021</a><br></p><p>Follow us on Twitter:&nbsp\;<a href="https://tw
+ itter.com/AusDocCompSymp">@AusDocCompSymp</a></p><p>We acknowledge the Trad
+ itional Custodians of Country throughout Australia\, and their continuing c
+ onnection to culture\, community\, land\, sea\, and sky. We pay our respect
+ s to Elders past\, present\, and emerging.</p>
+LAST-MODIFIED:20211130T044629Z
+LOCATION:Virtual on Zoom (Please register to get the link)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[ADCS 2021] Opening + Keynote by A/Prof. Min Zhang (Tsinghua Univer
+ sity\, China)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
